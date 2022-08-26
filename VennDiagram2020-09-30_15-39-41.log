@@ -1,0 +1,7 @@
+INFO [2020-09-30 15:39:41] $x
+INFO [2020-09-30 15:39:41] list(nhbe_deg, a549_deg)
+INFO [2020-09-30 15:39:41] 
+INFO [2020-09-30 15:39:41] [[2]]
+INFO [2020-09-30 15:39:41] NULL
+INFO [2020-09-30 15:39:41] 
+ERROR [2020-09-30 15:39:41] Unexpected parameter length for 'category'
